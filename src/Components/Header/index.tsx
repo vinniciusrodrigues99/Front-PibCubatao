@@ -19,7 +19,7 @@ export default function Header() {
             <p className="text-blue-500 text-xl mx-2"> SOBRE A IGREJA PIB CUBATÃO </p>
           </Link>
           <Link to="/Pastores">
-            <p className="text-blue-500 text-xl mx-2"> CONHEÇA OS NOSSOS PASTORES </p>
+            <p className="text-blue-500 text-xl mx-2"> CONHEÇA OS NOSSOS PASTORES</p>
           </Link>
           <Link to="/Doacao">
             <p className="text-blue-500 text-xl mx-2"> CANAL DE DOAÇÕES </p>
